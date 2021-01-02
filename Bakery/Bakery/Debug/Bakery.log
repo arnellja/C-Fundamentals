@@ -1,0 +1,8 @@
+﻿  main.cpp
+  LayerCake.cpp
+  CupCake.cpp
+c:\users\jeffrey arnell\source\repos\bakery\bakery\cupcake.cpp(39): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  Bread.cpp
+  Generating Code...
+  Bakery.vcxproj -> C:\Users\Jeffrey Arnell\source\repos\Bakery\Debug\Bakery.exe
+  Bakery.vcxproj -> C:\Users\Jeffrey Arnell\source\repos\Bakery\Debug\Bakery.pdb (Partial PDB)

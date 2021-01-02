@@ -1,0 +1,7 @@
+﻿  main.cpp
+  ShoppingCart.cpp
+c:\users\jeffrey arnell\source\repos\shoppingcart\shoppingcart\shoppingcart.cpp(56): warning C4018: '<': signed/unsigned mismatch
+c:\users\jeffrey arnell\source\repos\shoppingcart\shoppingcart\shoppingcart.cpp(78): error C3867: 'ItemToPurchase::GetItemPrice': non-standard syntax; use '&' to create a pointer to member
+c:\users\jeffrey arnell\source\repos\shoppingcart\shoppingcart\shoppingcart.cpp(78): error C2296: '*': illegal, left operand has type 'double (__thiscall ItemToPurchase::* )(void)'
+c:\users\jeffrey arnell\source\repos\shoppingcart\shoppingcart\shoppingcart.cpp(93): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
